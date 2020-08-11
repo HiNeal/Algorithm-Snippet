@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="oyshortnote" value="/*&#10; *&#10; */" description="注释 - 短注释" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
