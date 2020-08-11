@@ -1,0 +1,3 @@
+<templateSet group="AndroidParcelable">
+  <template name="&lt;abbreviation&gt;asfd" value="asd" description="adsf" toReformat="false" toShortenFQNames="true" />
+</templateSet>
