@@ -1,0 +1,7 @@
+<templateSet group="Algorithm-Stack">
+  <template name="oystackimplementbyarray" value="import java.util.*;&#10;&#10;class Solution {&#10;    public class Stack&lt;E&gt; {&#10;        private List&lt;E&gt; list = new ArrayList&lt;E&gt;();&#10;&#10;        public void push(E element) {&#10;            list.add(element);&#10;        }&#10;&#10;        public E pop() {&#10;            return list.remove(list.size() - 1);&#10;        }&#10;&#10;        public E top() {&#10;            return list.get(list.size() - 1);&#10;        }&#10;&#10;        public void clear() {&#10;            list.clear();&#10;        }&#10;&#10;        public int size() {&#10;            return list.size();&#10;        }&#10;&#10;        public boolean isEmpty() {&#10;            return list.isEmpty();&#10;        }&#10;    }&#10;}&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;" description="栈 - 用数组结构实现固定的栈 - OYStackImplementByArray" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
