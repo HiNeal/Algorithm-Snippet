@@ -1,0 +1,7 @@
+<templateSet group="Idea-Snippet">
+  <template name="oypath" value="// idea代码块路径&#10;~/Library/Application Support/JetBrains/IdeaIC2020.2/templates" description="Idea - 模板配置路径" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
